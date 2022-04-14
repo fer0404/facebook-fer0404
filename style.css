@@ -1,0 +1,88 @@
+body {
+  width: 1400px;
+  line-height: 1.34rem;
+  background: #d5d6d8;
+}
+
+.face {
+  margin-top: 150px;
+  margin-left: 2.5rem;
+  font-size: 108px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(36, 104, 231);
+}
+h2 {
+  float: left;
+  width: 500px;
+  font-size: 28px;
+  margin-top: -20px;
+  margin-left: 2.5rem;
+  font-weight: normal;
+  line-height: 32px;
+}
+#criar {
+  float: right;
+  margin-top: -7.5rem;
+  margin-right: -0.5rem;
+  text-align: center;
+  background-color: #fafbfd;
+  width: 35.5rem;
+  height: 23.5rem;
+  border-radius: 8px;
+  padding-top: 7.5rem;
+}
+.email {
+  width: 33.5rem;
+  height: 3.5rem;
+  font-size: 20px;
+  border-radius: 6px;
+  border: solid 1px #dddfe2;
+  margin-top: 12px;
+}
+.senha {
+  width: 33.5rem;
+  height: 3.5rem;
+  font-size: 20px;
+  border-radius: 6px;
+  border: solid 1px #dddfe2;
+  margin-top: 12px;
+}
+.entrar {
+  width: 33.5rem;
+  height: 3.5rem;
+  font-size: 25px;
+  border-radius: 6px;
+  background-color: rgb(36, 104, 231);
+  color: white;
+}
+p {
+  color: #1877f2;
+  font-size: 20px;
+  font-weight: 500;
+}
+#criar1 {
+  border: none;
+  width: 15rem;
+  border-radius: 6px;
+  font-size: 17px;
+  line-height: 48px;
+  padding: 0 16px;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: #42b72a;
+  color: white;
+}
+p#span {
+  color: black;
+  float: right;
+  margin-top: 25.5rem;
+  margin-right: -35.5rem;
+  font-size: 20px;
+}
+
+.border {
+  border-bottom: 1px solid #dadde1;
+  margin-bottom: 20px;
+}
